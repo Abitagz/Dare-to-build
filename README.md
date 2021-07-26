@@ -54,7 +54,8 @@
   https://www.wikipedia.org/
 
   https://VOAnews.com
-
+  
+  This project is for educational purposes only!
 
 
   ## Media
