@@ -2,7 +2,7 @@
 
    This is a tribute page for the late prime minister of Ethiopia, Meles Zenawi and his dedication on building the Nile Dam that is the largest hydroelectric power plant in Africa.
 
-  ## Who was he ?
+  ## About the Meles Zenawi
 
   He drop out from a medical school to Join a gorilla fight against the communist regime at the time, and win the fight in 1991 and become a prime minister for 20 years until his death in 2012 at age 57. While he was a prime minister he continues with his education and acquired a First Class M.A. in Business Administration from the open University of the United Kingdom in 1995 and a MSc. In Economics from the Erasmus University of the Netherlands in 2004.
 
