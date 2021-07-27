@@ -7,7 +7,7 @@
 body{
   font-family: lato, sans-serif;
   font-weight: 200%;
-  color: rgb(223, 39, 39);
+  color: rgb(17, 16, 16);
 }
 
 
@@ -92,6 +92,18 @@ p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: justify;
 }
+
+.contact {
+  position: relative;
+  justify-content: center;
+  min-height: 100mv;
+  padding: 50px 100px;
+  align-items: center;
+  display: flex;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
 .footer {
   position: fixed;
   left: 0;
