@@ -72,6 +72,7 @@ body{
   float: left;
   height: 480px;
 }
+
 img {
   float: left;
   width: 400px;
@@ -79,6 +80,7 @@ img {
   padding: 0 10px 0 0;
   margin: 10px;
 }
+
 #box-2 {
   margin: 300px auto;
   width: 100%;
