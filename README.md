@@ -12,35 +12,28 @@
 
    As a leader, your people should be the source of your strength and what this dam showed me and inspired me is, when people united everything is possible!
   
+ 
 
-
-  ## Features
-
-
-
-  ## Testing
-
+  ## Structure 
+    ### A simple tribute page with navigation
+      
 
 
   ## Validator Testing
 
     HTML
- 	•	No errors were returned when passing through the official W3C validator
+    	•	yes errors were returned when passing through the official W3C validator
 
      CSS
-     	◦	No errors were found when passing through the official (Jigsaw) validator
-
-
-  ## Unfixed Bugs
-
-
-  ## Deployment
-    (The process I went through )
+     	◦	yes errors were found when passing through the official (Jigsaw) validator
 
 
   ## Credits
-
-    Slack community
+    Code Institute
+    github
+    All the Slack family who helped me through this, especially @Andrew Dempsey and @Matt Bodden_5p_Lead. 
+    To defferent Youtube tutorial, it was very helpfull
+    All the information/history on my tribute page, source mentioned on my contents!
 
 
  
@@ -55,10 +48,9 @@
 
   https://VOAnews.com
   
-  This project is for educational purposes only!
+  Disclaimer: This project is created for educational purposes only!
 
 
-  ## Media
 
 
 
