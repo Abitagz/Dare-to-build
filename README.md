@@ -3,7 +3,7 @@
   ## The Nile Grand Renaissance Dam
 
     This website is to inspire people, getting out of the ordinary because often we inspired by one person or few but not by 110million.
-    These 110 people inspired me everytime I read about this by coming together and building the biggest dam in Africa by putting aside their religion and political differences. That's huge for me!
+    These 110 millio people inspired me everytime I read about this, by coming together and building the biggest dam in Africa by putting aside their religion and political differences. That's huge for me!
 
   ## UX
 
