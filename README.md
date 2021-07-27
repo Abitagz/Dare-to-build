@@ -30,7 +30,7 @@
 
   ## Credits
     Code Institute
-    github
+    Github, Gitpod, CSS, HTML
     All the Slack family who helped me through this, especially @Andrew Dempsey and @Matt Bodden_5p_Lead. 
     To defferent Youtube tutorial, it was very helpful
     All the information/history on my tribute page, source mentioned on my contents!
